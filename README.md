@@ -1,3 +1,3 @@
 # JavaExamples
 
-This is a Sample README.md
+This is a README.md for Java Examples.
