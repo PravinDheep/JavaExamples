@@ -1,4 +1,4 @@
-package com.java.examples;
+package com.javabasics;
 
 public enum NumberStatusEnum {
 	ONE , TWO , THREE;

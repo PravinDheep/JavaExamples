@@ -1,4 +1,4 @@
-package com.java.examples;
+package com.javabasics;
 import java.util.Scanner;
 
 public class Fibo {
